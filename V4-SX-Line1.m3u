@@ -1,0 +1,371 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV1.png" group-title="央视",CCTV综合
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226231/index.m3u8
+
+#EXTINF:-1 tvg-id="2" tvg-name="CCTV2" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV2.png" group-title="央视",CCTV经济
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226195/index.m3u8
+
+#EXTINF:-1 tvg-id="3" tvg-name="CCTV3" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV3.png" group-title="央视",CCTV综艺
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226397/index.m3u8
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV4.png" group-title="央视",CCTV国际
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240316_1/encoder/0/playlist.m3u8?CONTENTID=00000110240316_1
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV4.png" group-title="央视",CCTV美洲
+http://39.136.13.131/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226269/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV4" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV4.png" group-title="央视",CCTV欧洲
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240363_1/encoder/0/playlist.m3u8?CONTENTID=00000110240363_1
+
+#EXTINF:-1 tvg-id="5" tvg-name="CCTV5" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV5.png" group-title="央视",CCTV体育
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240246_1/encoder/0/playlist.m3u8?CONTENTID=00000110240246_1
+
+#EXTINF:-1 tvg-id="6" tvg-name="CCTV5+" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV5P.png" group-title="央视",CCTV5+
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226221/index.m3u8
+
+#EXTINF:-1 tvg-id="7" tvg-name="CCTV6" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV6.png" group-title="央视",CCTV电影
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226393/index.m3u8
+
+#EXTINF:-1 tvg-id="8" tvg-name="CCTV7" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV7.png" group-title="央视",CCTV军事
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226192/index.m3u8
+
+#EXTINF:-1 tvg-id="9" tvg-name="CCTV8" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV8.png" group-title="央视",CCTV电视剧
+http://39.134.32.102:6610/270000001111/1110000309/index.m3u8?IASHttpSessionId=OTT
+
+#EXTINF:-1 tvg-id="10" tvg-name="CCTV9" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV9.png" group-title="央视",CCTV记录
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226197/index.m3u8
+
+#EXTINF:-1 tvg-id="11" tvg-name="CCTV10" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV10.png" group-title="央视",CCTV教育
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226189/index.m3u8
+
+#EXTINF:-1 tvg-id="12" tvg-name="CCTV11" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV11.png" group-title="央视",CCTV戏曲
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226240/index.m3u8
+
+#EXTINF:-1 tvg-id="13" tvg-name="CCTV12" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV12.png" group-title="央视",CCTV法治
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226190/index.m3u8
+
+#EXTINF:-1 tvg-id="14" tvg-name="CCTV13" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV13.png" group-title="央视",CCTV新闻
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226233/index.m3u8
+
+#EXTINF:-1 tvg-id="15" tvg-name="CCTV14" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV14.png" group-title="央视",CCTV少儿
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226193/index.m3u8
+
+#EXTINF:-1 tvg-id="16" tvg-name="CCTV15" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV15.png" group-title="央视",CCTV音乐
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV16.png" group-title="央视",CCTV奥运
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226921/index.m3u8
+
+#EXTINF:-1 tvg-id="18" tvg-name="CCTV17" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV17.png" group-title="央视",CCTV农业
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226198/index.m3u8
+
+#EXTINF:-1 tvg-id="7249" tvg-name="CCTV16" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV16.png" group-title="央视",CCTV奥运4K
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240389_1/encoder/0/playlist.m3u8?CONTENTID=00000110240389_1
+
+#EXTINF:-1 tvg-id="106" tvg-name="CCTV4K" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV-A/CCTV4K.png" group-title="央视",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+
+#EXTINF:-1 tvg-id="4K测试" tvg-name="4K测试" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/4k-uhd.png" group-title="数字",爱上4K
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240282_1/encoder/0/playlist.m3u8?CONTENTID=00000110240282_1
+
+#EXTINF:-1 tvg-id="141" tvg-name="凤凰中文" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/fhws.png" group-title="港澳台",凤凰中文
+http://r.jdshipin.com/cCCzW
+
+#EXTINF:-1 tvg-id="142" tvg-name="凤凰资讯" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/fhzx.png" group-title="港澳台",凤凰资讯
+http://r.jdshipin.com/0Rp07
+#EXTINF:-1 tvg-id="143" tvg-name="凤凰香港" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/fhwshk.png" group-title="港澳台",凤凰香港
+http://180.142.220.127:8181/tsfile/live/1084_1.m3u8?key=txiptv&playlive=1&authid=0
+
+#EXTINF:-1 tvg-id="126" tvg-name="翡翠台" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/tvb.png" group-title="港澳台",翡翠台
+http://r.jdshipin.com/qClQf
+
+#EXTINF:-1 tvg-id="127" tvg-name="明珠台" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/tvb.png" group-title="港澳台",明珠台
+http://r.jdshipin.com/ZQ4kN
+
+#EXTINF:-1 tvg-id=" " tvg-name="TVB星河" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HK/tvb.png" group-title="港澳台",TVB星河
+https://sc2022.stream-link.org/tv2306.php?id=h23
+
+
+#EXTINF:-1 tvg-id="40" tvg-name="重庆卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/cqws.png" group-title="卫视",重庆卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226202/index.m3u8
+
+#EXTINF:-1 tvg-id="30" tvg-name="北京卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/brtv2.png" group-title="卫视",北京卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226222/index.m3u8
+
+#EXTINF:-1 tvg-id="27" tvg-name="湖南卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hntv.png" group-title="卫视",湖南卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226211/index.m3u8
+
+#EXTINF:-1 tvg-id="29" tvg-name="江苏卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/jsws.png" group-title="卫视",江苏卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226200/index.m3u8
+
+#EXTINF:-1 tvg-id="28" tvg-name="浙江卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/zjws.png" group-title="卫视",浙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226199/index.m3u8
+
+#EXTINF:-1 tvg-id="31" tvg-name="东方卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/dfws.png" group-title="卫视",东方卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226217/index.m3u8
+
+#EXTINF:-1 tvg-id="32" tvg-name="安徽卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/ahws.png" group-title="卫视",安徽卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226203/index.m3u8
+
+#EXTINF:-1 tvg-id="33" tvg-name="广东卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/gdws.png" group-title="卫视",广东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226216/index.m3u8
+
+#EXTINF:-1 tvg-id="34" tvg-name="深圳卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/szws.png" group-title="卫视",深圳卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226205/index.m3u8
+
+#EXTINF:-1 tvg-id="36" tvg-name="辽宁卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/lnws.png" group-title="卫视",辽宁卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226201/index.m3u8
+
+#EXTINF:-1 tvg-id="48" tvg-name="湖北卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hbws.png" group-title="卫视",湖北卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226194/index.m3u8
+
+#EXTINF:-1 tvg-id="47" tvg-name="河南卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hnws.png" group-title="卫视",河南卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225709/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="45" tvg-name="河北卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hbtv.png" group-title="卫视",河北卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225713/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="46" tvg-name="黑龙江卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hljws.png" group-title="卫视",黑龙江卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226215/index.m3u8
+
+#EXTINF:-1 tvg-id="41" tvg-name="东南卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/dnws.png" group-title="卫视",东南卫视
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240588_1/playlist.m3u8?CONTENTID=00000110240588_1&AUTHINFO=FABqh274XDn8fkurD5614t%2B1RvYajgx%2Ba3PxUJe1SMO4OjrtFitM6ZQbSJEFffaD35hOAhZdTXOrK0W8QvBRom%2BXaXZYzB%2FQfYjeYzGgKhP%2Fdo%2BXpr4quVxlkA%2BubKvbU1XwJFRgrbX%2BnTs60JauQUrav8kLj%2FPH8LxkDFpzvkq75UfeY%2FVNDZygRZLw4j%2BXtwhj%2FIuXf1hJAU0X%2BheT7g%3D%3D&USERTOKEN=eHKuwve%2F35NVIR5qsO5XsuB0O2BhR0KR
+
+#EXTINF:-1 tvg-id="39" tvg-name="天津卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/tjws.png" group-title="卫视",天津卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226204/index.m3u8
+
+#EXTINF:-1 tvg-id="38" tvg-name="山东卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/sdtv.png" group-title="卫视",山东卫视
+http://dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226209/index.m3u8
+
+#EXTINF:-1 tvg-id="50" tvg-name="江西卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/jxws.png" group-title="卫视",江西卫视
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240398_1/encoder/0/playlist.m3u8?CONTENTID=00000110240398_1
+
+#EXTINF:-1 tvg-id="51" tvg-name="吉林卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/jlws.png" group-title="卫视",吉林卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225753/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="54" tvg-name="贵州卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/gzws.png" group-title="卫视",贵州卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225776/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="42" tvg-name="甘肃卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/gsws.png" group-title="卫视",甘肃卫视
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225755/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="37" tvg-name="旅游卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/hainantv.png" group-title="卫视",海南卫视
+http://jiandjh.51vip.biz:5678/bestv.php?id=hainanwshd8m/8000000
+
+#EXTINF:-1 tvg-id="50" tvg-name="广西卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/gxws.png" group-title="卫视",广西卫视
+http://222.217.246.236:8181/tsfile/live/1030_1.m3u8
+
+#EXTINF:-1 tvg-id="56" tvg-name="四川卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/scws.png" group-title="卫视",四川卫视
+http://159.75.85.63:5681/sxg.php?id=scwsH265_4000
+
+#EXTINF:-1 tvg-id="58" tvg-name="云南卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/ynws.png" group-title="卫视",云南卫视
+http://jiandjh.51vip.biz:5678/bestv.php?id=ynwshd8m/8000000
+
+#EXTINF:-1 tvg-id="59" tvg-name="青海卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/qhws.png" group-title="卫视",青海卫视
+http://175.10.35.193:4502/udp/239.76.254.132:9000
+
+#EXTINF:-1 tvg-id="57" tvg-name="新疆卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/xjws.png" group-title="卫视",新疆卫视
+http://router2.youguess.site:8000/udp/238.125.3.174:5140
+
+#EXTINF:-1 tvg-id="52" tvg-name="内蒙古卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/nmgws.png" group-title="卫视",内蒙古卫视
+http://1.183.178.135:8097/udp/239.29.0.2:5000
+
+#EXTINF:-1 tvg-id="55" tvg-name="陕西卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/sxws.png" group-title="卫视",陕西卫视
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=1452_4500
+
+#EXTINF:-1 tvg-id="54" tvg-name="山西卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/sxtv.png" group-title="卫视",山西卫视
+http://httpdvb.slave.shuliyun.com:13164/playurl?playtype=live&protocol=hls&accesstoken=G8E222BE4V21307D1TBC062A6JF7E607ABM7B61CDEDID068875K98BDB0&playtoken=31607WESMAQDI&programid=4200000166.m3u8
+
+#EXTINF:-1 tvg-id="53" tvg-name="宁夏卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/nxws.png" group-title="卫视",宁夏卫视
+https://hls.ningxiahuangheyun.com/tv/nxws.flv
+
+#EXTINF:-1 tvg-id="71" tvg-name="西藏卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/xzws.png" group-title="卫视",西藏卫视
+http://zgntv.icu/live/xztv.php?id=0
+
+
+#EXTINF:-1 tvg-id="6241" tvg-name="CHC高清电影" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CHC/chcgqdy.png" group-title="数字",CHC高清电影
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240325_1/encoder/0/playlist.m3u8?CONTENTID=00000110240325_1
+
+#EXTINF:-1 tvg-id="6245" tvg-name="CHC动作电影" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CHC/chcdzdy.png" group-title="数字",CHC动作电影
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240324_1/encoder/0/playlist.m3u8?CONTENTID=00000110240324_1
+
+#EXTINF:-1 tvg-id="6246" tvg-name="CHC家庭影院" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CHC/chcjtyy.png" group-title="数字",CHC家庭影院
+http://106.39.160.148/live.aishang.ctlcdn.com/00000110240323_1/encoder/0/playlist.m3u8?CONTENTID=00000110240323_1
+
+
+#EXTINF:-1 tvg-id="6568" tvg-name="高尔夫网球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/GEFWQ.png" group-title="央视",高尔夫网球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226114/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6000" tvg-name="风云足球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/FYZQ.png" group-title="央视",风云足球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225734/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6557" tvg-name="风云音乐" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/FYYY.png" group-title="央视",风云音乐
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226083/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6559" tvg-name="风云剧场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/FYJC.png" group-title="央视",风云剧场
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225700/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6560" tvg-name="世界地理" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/SJDL.png" group-title="央视",世界地理
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226071/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6562" tvg-name="怀旧剧场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/HJJC.png" group-title="央视",怀旧剧场
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226097/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6563" tvg-name="兵器科技" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/BQKJ.png" group-title="央视",兵器科技
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226111/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6584" tvg-name="央视台球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/YSTQ.png" group-title="央视",央视台球
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226117/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6558" tvg-name="第一剧场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/DYJC.png" group-title="央视",第一剧场
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226124/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6564" tvg-name="女性时尚" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/NXSS.png" group-title="央视",女性时尚
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226104/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6569" tvg-name="央视精品" tvg-logo="https://gitee.com/nibrand/itv/raw/master/CCTV_D/YSJP.png" group-title="央视",央视精品
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226100/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6244" tvg-name="求索记录" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SZ/qsjl.png" group-title="数字",求索记录
+https://live.goodiptv.club/api/cqyx.php?id=qsjlHD
+
+#EXTINF:-1 tvg-id="1964" tvg-name="劲爆体育" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-jbty.png" group-title="数字",劲爆体育
+http://jiandjh.51vip.biz:5678/bestv.php?id=jbtyhd8m/8000000
+
+#EXTINF:-1 tvg-id="1963" tvg-name="新视觉HD" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SH/XSJ.png" group-title="数字",新视觉HD
+http://jiandjh.51vip.biz:5678/bestv.php?id=xsjhd8m/8000000
+
+#EXTINF:-1 tvg-id="7242" tvg-name="魅力足球" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-mlzq.png" group-title="数字",魅力足球
+http://jiandjh.51vip.biz:5678/bestv.php?id=mlyyhd8m/8000000
+
+#EXTINF:-1 tvg-id=" " tvg-name="都市剧场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-dsjc.png" group-title="数字",都市剧场
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226243/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="1981" tvg-name="生活时尚" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-shss.png" group-title="数字",生活时尚
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226222/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="1987" tvg-name="乐游" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-yy.png" group-title="数字",乐游
+http://39.134.24.162/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221226580/index.m3u8
+
+#EXTINF:-1,tvg-id=" " tvg-name="动漫秀场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-dmxc.png" group-title="数字",动漫秀场
+http://jiandjh.51vip.biz:5678/bestv.php?id=dmxc8m/8000000
+
+#EXTINF:-1 tvg-id="1977" tvg-name="欢笑剧场" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SH/hxjc4K.png" group-title="数字",欢笑剧场
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226210/1/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-id="1874" tvg-name="北京纪实" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/bj-jskj.png" group-title="地方",北京纪实
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226105/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1,tvg-id="67" tvg-name="卡酷少儿" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/bj-kkse.png" group-title="地方",卡酷少儿
+http://111.40.196.30:443/PLTV/88888888/224/3221225645/1.m3u8
+
+#EXTINF:-1 tvg-id="1872" tvg-name="北京纪实" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/bj-js8k.png" group-title="地方",北京纪实8K
+http://159.75.85.63:6798
+
+
+#EXTINF:-1 tvg-id="1986" tvg-name="东方影视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-dfys.png" group-title="地方",东方影视
+http://jiandjh.51vip.biz:5678/bestv.php?id=dfyshd8m/8000000
+
+#EXTINF:-1 tvg-id="1984" tvg-name="上视新闻频道" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-xwzh.png" group-title="地方",新闻综合
+http://jiandjh.51vip.biz:5678/bestv.php?id=xwzhhd8m/8000000
+
+#EXTINF:-1 tvg-id="1988" tvg-name="上海纪实" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-jsrw.png" group-title="地方",上海纪实
+http://jiandjh.51vip.biz:5678/bestv.php?id=jspdhd/4000000
+
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-wxty.png" group-title="地方",五星体育
+http://jiandjh.51vip.biz:5678/bestv.php?id=wxtyhd8m/8000000
+
+#EXTINF:-1 tvg-id="1989" tvg-name="上海都市频道" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-ds.png" group-title="地方",上海都市
+http://jiandjh.51vip.biz:5678/bestv.php?id=dshd8m/8000000
+
+#EXTINF:-1,tvg-id="" tvg-name="哈哈炫动" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-hhxd.png" group-title="地方",哈哈炫动
+http://jiandjh.51vip.biz:5678/bestv.php?id=hhxd8m/8000000
+
+#EXTINF:-1 tvg-id="1985" tvg-name="第一财经" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-dycj.png" group-title="地方",第一财经
+http://jiandjh.51vip.biz:5678/bestv.php?id=dycjhd8m/8000000
+
+#EXTINF:-1,tvg-id="" tvg-name="东方财经" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-dfcj.png" group-title="地方",东方财经
+http://jiandjh.51vip.biz:5678/bestv.php?id=dfcjhd8m/8000000
+
+#EXTINF:-1 tvg-id="1991" tvg-name="ICS外语" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/sh-ics.png" group-title="地方",上海ICS外语
+http://jiandjh.51vip.biz:5678/bestv.php?id=icshd8m/8000000
+
+
+#EXTINF:-1 tvg-id="6013" tvg-name="广东体育" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-ty.png" group-title="地方",广东体育
+http://218.15.229.90:9901/tsfile/live/1001_1.m3u8
+
+#EXTINF:-1 tvg-id="6015" tvg-name="广东珠江" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-zj.png" group-title="地方",广东珠江
+http://suixiaobin.dsmynas.net:5666/gudou.php?phone=freeuser&ptoken=8S6lHDnZOXb8fZ91xEBYwg%3D%3D&pserialnumber=004bfc8f56cd2797&cid=1332&id=gdzhujiangHD_7500
+
+#EXTINF:-1 tvg-id="6015" tvg-name="大湾区卫视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-dwqws.png" group-title="地方",大湾区卫视
+http://222.217.246.236:8181/tsfile/live/1002_1.m3u8
+
+#EXTINF:-1 tvg-id="7252" tvg-name="广东经济" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-jjkj.png" group-title="地方",经济科教
+http://222.217.246.236:8181/tsfile/live/1003_1.m3u8
+
+#EXTINF:-1 tvg-id="6016" tvg-name="广东新闻" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-xw.png" group-title="地方",广东新闻
+http://222.217.246.236:8181/tsfile/live/1004_1.m3u8
+
+#EXTINF:-1 tvg-id="7250" tvg-name="广东影视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-ys.png" group-title="地方",广东影视
+http://222.217.246.236:8181/tsfile/live/1008_1.m3u8
+
+#EXTINF:-1 tvg-id="7253" tvg-name="广东少儿" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-se.png" group-title="地方",广东少儿
+http://222.217.246.236:8181/tsfile/live/1009_1.m3u8
+
+#EXTINF:-1 tvg-id="6010" tvg-name="嘉佳卡通" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-jjkt.png" group-title="地方",嘉佳卡通
+http://219.128.140.118:3334/tsfile/live/1006_1.m3u8
+
+#EXTINF:-1 tvg-id="6016" tvg-name="广东民生" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/gd-gdtv.png" group-title="地方",广东民生
+http://222.217.246.236:8181/tsfile/live/1007_1.m3u8
+
+
+
+#EXTINF:-1 tvg-id="2025" tvg-name="金鹰纪实" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HN/jyjs.png" group-title="地方",金鹰纪实
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226064/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="69" tvg-name="金鹰卡通" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HN/jykt.png" group-title="地方",金鹰卡通
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221225731/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6595" tvg-name="快乐垂钓" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HN/klcd.png" group-title="地方",快乐垂钓
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226224/1/index.m3u8?fmt=ts2hls
+
+#EXTINF:-1 tvg-id="6585" tvg-name="茶频道" tvg-logo="https://gitee.com/nibrand/itv/raw/master/HN/hncpd.png" group-title="地方",茶频道
+http://39.136.18.69/cdnrrs.gz.chinamobile.com/TVOD/88888888/224/3221226216/1/index.m3u8?fmt=ts2hls
+
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆新闻" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-xw.png" group-title="地方",重庆新闻
+https://live.goodiptv.club/api/cqyx.php?id=cqtvnewsHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆影视" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-ys.png" group-title="地方",重庆影视
+https://live.goodiptv.club/api/cqyx.php?id=cqyingshiHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆科教" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-kj.png" group-title="地方",重庆科教
+https://live.goodiptv.club/api/cqyx.php?id=CQTVkejiaoHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆文体" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-wtyl.png" group-title="地方",重庆文体
+https://live.goodiptv.club/api/cqyx.php?id=cqwtylHD
+
+#EXTINF:-1 tvg-id="CQTV时尚高清" tvg-name="CQTV时尚高清" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-sssh.png" group-title="地方",重庆生活
+https://live.goodiptv.club/api/cqyx.php?id=cqssgwHD
+
+#EXTINF:-1 tvg-id="CQTV少儿高清" tvg-name="CQTV少儿高清" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-se.png" group-title="地方",重庆少儿
+https://live.goodiptv.club/api/cqyx.php?id=cqseHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆农村" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-xnc.png" group-title="地方",重庆农村
+https://live.goodiptv.club/api/cqyx.php?id=cqggncHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆社会与法" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-shyf.png" group-title="地方",重庆社会与法
+https://live.goodiptv.club/api/cqyx.php?id=CQTVTrendyHD
+
+#EXTINF:-1 tvg-id="" tvg-name="重庆移动" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/cq-yd.png" group-title="地方",重庆移动
+https://live.goodiptv.club/api/cqyx.php?id=mryyHD
+
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SZ/bestv.png" group-title="数字",百事通4K儿童
+http://58.32.40.25:8000/udp/239.45.1.1:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/SZ/bestv.png" group-title="数字",百事通4K纪实
+http://58.32.40.25:8000/udp/239.45.1.10:5140
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/tvicon/4k-zxcq.png" group-title="数字",斗鱼4K电影
+http://159.75.85.63:35455/douyu/9249162
+#EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://gitee.com/nibrand/itv/raw/master/WS/scws.png" group-title="数字",峨眉电影
+http://183.223.157.33:85/tsfile/live/1006_1.m3u8?key=txiptv&playlive=1&authid=0

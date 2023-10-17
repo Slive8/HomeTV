@@ -225,10 +225,10 @@ http://[2409:8087:2001:20:2800:0:df6e:eb1b]:80/PLTV/1/224/3221230344/1.m3u8
 http://[2409:8087:2001:20:2800:0:df6e:eb0c]:80/PLTV/1/224/3221230346/1.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="江苏",咪咕live-57
 http://[2409:8087:2001:20:2800:0:df6e:eb0e]:80/PLTV/1/224/3221230306/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="4K",咪咕4K-1
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="江苏",咪咕4K-1
 http://[2409:8087:2001:20:2800:0:df6e:eb0f]:80/PLTV/1/224/3221230854/1.m3u8
-#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="4K",咪咕4K-2
-
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/nibrand/itv/raw/master/MG/MGZB.png" group-title="江苏",咪咕4K-2
+http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230888/1.m3u8
 
 #EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-tyzh.png" group-title="黑龙江V6线路",咪咕综合
 http://[2409:8087:1a01:df::404d]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226124/index.m3u8
@@ -346,4 +346,120 @@ http://[2409:8087:1a01:df::4076]/PLTV/88888888/224/3221226027/index.m3u8
 http://[2409:8087:1a01:df::4068]/PLTV/88888888/224/3221226031/index.m3u8
 #EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="黑龙江V6线路",咪咕Live-50
 http://[2409:8087:1a01:df::4062]/PLTV/88888888/224/3221226046/index.m3u8
-http://[2409:8087:2001:20:2800:0:df6e:eb14]:80/PLTV/1/224/3221230888/1.m3u8
+
+
+
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-4k1.png" group-title="甘肃",咪咕4K-1
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226351/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-4k2.png" group-title="甘肃",咪咕4K-2
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226227/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-tyzh.png" group-title="甘肃",咪咕综合
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226599/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-tyzh.png" group-title="甘肃",咪咕综合
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226504/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-tyzh.png" group-title="甘肃",咪咕综合
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226136/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zq.png" group-title="甘肃",咪咕足球
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226508/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zq.png" group-title="甘肃",咪咕足球
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226506/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕音乐01
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226231/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-49
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226502/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-48
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226496/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-47
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226498/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-46
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226500/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-45
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226494/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-44
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226401/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-43
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226403/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-42
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226395/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-41
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226397/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-40
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226393/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-39
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226389/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-38
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226391/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-37
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226387/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-33
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226381/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-34
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226365/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-35
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226383/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-36
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226385/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-32
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226373/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-31
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226379/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-30
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226377/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-29
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226375/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-28
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226371/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-27
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226369/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-26
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226367/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-25
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226361/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-24
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226363/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-23
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226355/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-22
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226359/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-21
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226357/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-20
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226352/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-19
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226340/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-18
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226336/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-17
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226332/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-16
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226330/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-15
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226328/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-14
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226326/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-13
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226334/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-12
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226229/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-10
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226221/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-11
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226223/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-09
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226225/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-08
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226215/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-07
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226219/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-06
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226217/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-05
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226196/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-04
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226190/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-03
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226194/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-02
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226188/1.m3u8
+#EXTINF:-1,tvg-id="" tvg-name="咪咕直播" tvg-logo="https://gitee.com/xixihahajcc/itv/raw/master/tvicon/mg-zb2.png" group-title="甘肃",咪咕直播-01
+http://[2409:8087:74F1:0021::0008]:80/PLTV/88888888/224/3221226192/1.m3u8
